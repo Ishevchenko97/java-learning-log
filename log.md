@@ -1,2 +1,2 @@
 27.09.2026. Beginning of stugiyng. Learning and practicing how create repositories, directories, tags, push and pull data to Git Hub
-18.10.2026. Started learning java. Created simple line, resolved errors, commited to repository on GutHub. No questions left
+18.10.2026. Started learning java. Created simple line, resolved errors, commited to repository on GitHub. No questions left
