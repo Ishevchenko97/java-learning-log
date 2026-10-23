@@ -1,2 +1,3 @@
 -  27.09.2026 - Beginning of stugiyng. Learning and practicing how create repositories, directories, tags, push and pull data to Git Hub
 - 18.10.2026 - Started learning java. Created simple line, resolved errors, commited to repository on GitHub. No questions left
+- 23.10.2026 - Has been strugling with exam for days. But finnaly almost passed :) Now have to finish it fully
