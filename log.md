@@ -2,3 +2,4 @@
 - 18.10.2026 - Started learning java. Created simple line, resolved errors, commited to repository on GitHub. No questions left
 - 23.10.2026 - Has been strugling with exam for days. But finnaly almost passed :) Now have to finish it fully
 - 24.10.2026 - The gate 0 exam has been passed:) So excated to start 1st stage. Wish me luck!
+- 25.10.2026 - Started learning Java basic. First expression is that its much easier to comprehend thand then Java Script, made 2 modules in 1 hour. Keep going!
