@@ -4,3 +4,4 @@
 - 24.10.2026 - The gate 0 exam has been passed:) So excated to start 1st stage. Wish me luck!
 - 25.10.2026 - Started learning Java basic. First expression is that its much easier to comprehend thand then Java Script, made 2 modules in 1 hour. Keep going!
 - 27.10.2026 - Its difficult to understand the Java's methods, why there are so many things to wirte?? Some static, void, printLn.... miss JS so much...
+- 28.10 - 02.11 - Have been studying Java all the way. Now I am on Loops topic, looks familiar to javaScript logic. Will get it!
